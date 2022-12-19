@@ -15,7 +15,7 @@ While Receiving New Updates Now & Then!
 
 
 
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/3kh0/3kh0.github.io)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/dolphinboy12213/EndInternetCensorship)
 <hr>
 
 <i><b>#EndInternetCensorship<b><i>
