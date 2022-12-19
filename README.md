@@ -13,6 +13,9 @@ While Receiving New Updates Now & Then!
 
 ⚠️ Do **not** try to deploy anything. The code on github is unfinished, just use the old replit demo for now.
 
+
+
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/3kh0/3kh0.github.io)
 <hr>
 
 <i><b>#EndInternetCensorship<b><i>
